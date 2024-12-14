@@ -12,7 +12,7 @@
 ###
 
 <div align="left">
-  <h4>Things I Comfortable With</h4>
+  <h3>Things I Comfortable With</h3>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -32,7 +32,7 @@
 ###
 
 <div align="left">
-  <h4>My Socials Link</h4>
+  <h3>My Socials Link</h3>
   
   <a href="https://www.instagram.com/ryanproductions_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />

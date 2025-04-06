@@ -5,10 +5,9 @@
 
 <img align="right" height="200" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fbestanimations.com%2FAnimals%2FMammals%2FCats%2Fcatart%2Fanimated-cat-art-gif-27.gif&f=1&nofb=1&ipt=8c640b48ee2b7c4d428e20d03c4c98e9088b57c6eaea9e7f44bc56e00da595ff&ipo=images"  />
 
-- 🌱 I’m currently learning **Laravel 11**
+- 🌱 I’m currently learning **Laravel**
 
-- 📫 How to reach me **gungryan1234@gmail.com**
-
+- 📫 How to reach me : [**@ryanproductions_**](https://www.instagram.com/ryanproductions_/)
 - 🧑‍🎓 Studying as a **highschool student**
 
 ###
